@@ -1,5 +1,4 @@
 das ist ein Test
 das ist auch ein Test
-d
-as ist wiederum auch ein Test
+das ist wiederum auch ein Test
 Test
